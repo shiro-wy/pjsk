@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    flex-direction:row;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.sec1{
+    text-align: center;
+    margin-top: 40px;
+}
+@media screen and (min-width:768px){
+    #carouselExampleIndicators{
+        height:300px;
+        width:300px ;
+    }
+    }
